@@ -41,7 +41,7 @@ print("endereco para evento Criado")
 # criando um periodo para evento
 periodo = Periodo()
 periodo.data_inicio = datetime.date.today()
-periodo.data_fim = datetime.date(2018, 1, 1)
+periodo.data_fim = datetime.date(2019, 12, 1)
 periodo.save()
 print("periodo para evento Criado")
 
@@ -115,14 +115,14 @@ print("Atividade Neutra Criada")
 
 # criando um periodo para atividade Neutra
 periodo_neutra = Periodo()
-periodo_neutra.data_inicio = "2017-10-10"
-periodo_neutra.data_fim = "2017-10-10"
+periodo_neutra.data_inicio = "2019-10-10"
+periodo_neutra.data_fim = "2019-10-10"
 periodo_neutra.save()
 print("periodo criado")
 
 # craindo um horario para atividade Neutra
 horario_neutra = Horario()
-horario_neutra.data = "2017-1-1"
+horario_neutra.data = "2019-1-1"
 horario_neutra.hora_inicio = "20:00"
 horario_neutra.hora_fim = "22:00"
 horario_neutra.save()
@@ -160,7 +160,7 @@ print("Atividade Criada")
 
 # craindo um horario para atividade
 horario = Horario()
-horario.data = "2017-1-1"
+horario.data = "2019-1-1"
 horario.hora_inicio = "20:00"
 horario.hora_fim = "22:00"
 horario.save()
@@ -258,7 +258,7 @@ print("trilha adicionada a inscricao")
 
 # criando o checkin
 checkin = CheckinItemInscricao()
-checkin.data = "2017-10-10"
+checkin.data = "2019-10-10"
 checkin.hora = "10:00:00"
 checkin.status = StatusCheckIn.VERIFICADO
 checkin.gerente = evento.dono
