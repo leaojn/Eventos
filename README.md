@@ -17,13 +17,18 @@ https://drive.google.com/file/d/0Bx9wBuIYue81a0toTU01d05GcVE/view?usp=sharing
 * Django Rest - Api
 * Padrao PEP 8 para python/django
 
+### Descrição
+Esse projeto foi desenvolvido na disciplina de Programação Coorporativa com intuito de estudar como construir sistemas dentro dos padrões de projeto e em equipe.
+
+#### Arquitetura da solução
+![](prints/login.png "Arquitetura de solução")
+
 #### Observações
 
 ** Para baixar e rodar o JacaEventos localmente:**
 
 ```bash
-$ git init 
-$ git remote add origin master https://github.com/leonfers/JacaEventos
+$ git clone https://github.com/leonfers/JacaEventos
 $ git pull orgin master
 $ pip install -r requirements.txt
 $ python manage.py runserver
