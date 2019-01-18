@@ -20,15 +20,19 @@ https://drive.google.com/file/d/0Bx9wBuIYue81a0toTU01d05GcVE/view?usp=sharing
 ### Descrição
 Esse projeto foi desenvolvido na disciplina de Programação Coorporativa com intuito de estudar como construir sistemas dentro dos padrões de projeto e em equipe.
 
-#### Arquitetura da solução
-![](prints/login.png "Arquitetura de solução")
+#### Alguns prints da aplicação
+![](prints/login.png "Tela de inicio")
+![](prints/pagina-inicial-not-button.png "Tela de inicio")
+![](prints/principal-evento.png "Tela de inicio")
+
+
 
 #### Observações
 
 ** Para baixar e rodar o JacaEventos localmente:**
 
 ```bash
-$ git clone https://github.com/leonfers/JacaEventos
+$ git clone https://github.com/leaojn/Eventos
 $ git pull orgin master
 $ pip install -r requirements.txt
 $ python manage.py runserver
