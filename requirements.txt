@@ -5,7 +5,7 @@ coreschema==0.0.4
 crispy-forms-materialize==0.2
 dj-database-url==0.4.2
 dj-static==0.0.6
-Django==1.11.3
+Django==1.11.29
 django-bootstrap-form==3.3
 django-bootstrap3==9.0.0
 django-crispy-forms==1.6.1
@@ -55,7 +55,7 @@ coreschema==0.0.4
 crispy-forms-materialize==0.2
 dj-database-url==0.4.2
 dj-static==0.0.6
-Django==1.11.3
+Django==1.11.29
 django-appconf==1.0.2
 django-bootstrap-form==3.3
 django-bootstrap3==9.0.0
