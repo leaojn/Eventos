@@ -26,7 +26,7 @@ django-tag-parser==3.1
 django-toolbelt==0.0.1
 django-viewform==0.1.0
 django-widget-tweaks==1.4.1
-djangorestframework==3.6.3
+djangorestframework==3.11.2
 gunicorn==19.7.1
 idna==2.5
 itypes==1.1.0
@@ -78,7 +78,7 @@ django-tag-parser==3.1
 django-toolbelt==0.0.1
 django-viewform==0.1.0
 django-widget-tweaks==1.4.1
-djangorestframework==3.6.3
+djangorestframework==3.11.2
 gunicorn==19.7.1
 idna==2.5
 itypes==1.1.0
