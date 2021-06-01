@@ -46,7 +46,7 @@ simplejson==3.11.1
 six==1.10.0
 static3==0.7.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 whitenoise==3.3.0
 certifi==2017.7.27.1
 chardet==3.0.4
@@ -99,5 +99,5 @@ simplejson==3.11.1
 six==1.10.0
 static3==0.7.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 whitenoise==3.3.0
